@@ -1,0 +1,15 @@
+{
+  "name": "junk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "flow check src/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "flow-bin": "^0.102.0"
+  },
+  "private": true
+}
